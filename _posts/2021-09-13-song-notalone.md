@@ -15,7 +15,7 @@ last_modified_at: 2021-09-13T08:06:00-05:00
 
 ## 영상
 
-[![NCT 127 - Not Alone](http://img.youtube.com/vi/pjZ-LRso8hU/0.jpg)](https://youtu.be/pjZ-LRso8hU?t=0s)
+{ % youtube pjZ-LRso8hU %}
 
 ## 가사
 
