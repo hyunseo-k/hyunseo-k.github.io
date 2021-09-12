@@ -107,9 +107,9 @@ author:
   location: "South Korea"
   email: "jelly9999@g.skku.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jelly9999@g.skku.edu"
+    #- label: "Email"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:jelly9999@g.skku.edu"
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     # url: "https://your-website.com"
