@@ -15,7 +15,7 @@ last_modified_at: 2021-09-13T08:06:00-05:00
 
 ## 영상
 
-{% youtube pjZ-LRso8hU 480 360 %}
+{% youtube pjZ-LRso8hU %}
 
 ## 가사
 
@@ -77,5 +77,3 @@ Can you feel not alone, baby?
 이어지길 이어지길 이어지길
 함께 걷는 함께 걷는 이 길에선
 We're never alone
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/notalone.jpg ){: .align-center}
